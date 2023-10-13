@@ -1,4 +1,4 @@
-package byuecel.labor.SeLect.lecture;
+package byuecel.labor.SeLect.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
